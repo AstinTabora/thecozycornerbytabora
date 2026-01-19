@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "The Cozy Corner",
-  description: "A cozy online bookstore with great recommendations",
+  title: "Read ROI",
+  description: "The top books that yield the most results",
 };
 
 export default function RootLayout({ children }) {
