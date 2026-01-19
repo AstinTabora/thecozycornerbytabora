@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Read ROI",
+  title: "The Cozy Corner - Online Book List",
   description: "The top books that yield the most results",
 };
 
